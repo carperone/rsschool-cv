@@ -17,3 +17,19 @@ I am a young and ambitious Junior Developer who is eager to get a job in an inno
 * Development tools: PyCharm, Eclipse, Visual Studio Code
 
 ### Code
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+
+### Work experience
+I don't have any work experience in IT field, but I have completed several educational projects using various programming languages and frameworks. For example, I created an application for online interaction with a website using Python. I also used Kotlin to develop a simple task management application.
+Prodject - [github](https://github.com/carperone/rsschool-cv)
+
+### Education
+* Bachelor's degree in "Ecology and Energy Efficiency in the Technical Sphere" from Belarusian State University of Transport (graduated in 2020)
+* Python courses
+
+### Language proficiency
+* English: A1 level. I studied English for 7 years in school.
